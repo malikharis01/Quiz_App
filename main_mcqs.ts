@@ -1,3 +1,4 @@
+#! /usr/bin/env node
  import { answers } from "./questions.js"
 
 
